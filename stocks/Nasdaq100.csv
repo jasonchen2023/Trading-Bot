@@ -1,0 +1,103 @@
+Company,Ticker,Sector
+Activision Blizzard,ATVI,Communication Services
+Adobe,ADBE,Information Technology
+ADP,ADP,Information Technology
+Airbnb,ABNB,Consumer Discretionary
+Align,ALGN,Health Care
+Alphabet (Class A),GOOGL,Communication Services
+Alphabet (Class C),GOOG,Communication Services
+Amazon,AMZN,Consumer Discretionary
+AMD,AMD,Information Technology
+American Electric Power,AEP,Utilities
+Amgen,AMGN,Health Care
+Analog Devices,ADI,Information Technology
+Ansys,ANSS,Information Technology
+Apple,AAPL,Information Technology
+Applied Materials,AMAT,Information Technology
+ASML,ASML,Information Technology
+AstraZeneca,AZN,Health Care
+Atlassian,TEAM,Information Technology
+Autodesk,ADSK,Information Technology
+Baidu,BIDU,Communication Services
+Biogen,BIIB,Health Care
+Booking Holdings,BKNG,Consumer Discretionary
+Broadcom,AVGO,Information Technology
+Cadence,CDNS,Information Technology
+Charter Communications,CHTR,Communication Services
+Cintas,CTAS,Industrials
+Cisco,CSCO,Information Technology
+Cognizant,CTSH,Information Technology
+Comcast,CMCSA,Communication Services
+Constellation,CEG,Utilities
+Copart,CPRT,Industrials
+Costco,COST,Consumer Staples
+CrowdStrike,CRWD,Information Technology
+CSX,CSX,Industrials
+Datadog,DDOG,Information Technology
+DexCom,DXCM,Health Care
+DocuSign,DOCU,Information Technology
+Dollar Tree,DLTR,Consumer Discretionary
+eBay,EBAY,Consumer Discretionary
+Electronic Arts,EA,Communication Services
+Exelon,EXC,Utilities
+Fastenal,FAST,Industrials
+Fiserv,FISV,Information Technology
+Fortinet,FTNT,Information Technology
+Gilead,GILD,Health Care
+Honeywell,HON,Industrials
+Idexx Laboratories,IDXX,Health Care
+Illumina,ILMN,Health Care
+Intel,INTC,Information Technology
+Intuit,INTU,Information Technology
+Intuitive Surgical,ISRG,Health Care
+JD.com,JD,Consumer Discretionary
+Keurig Dr Pepper,KDP,Consumer Staples
+KLA,KLAC,Information Technology
+Kraft Heinz,KHC,Consumer Staples
+Lam Research,LRCX,Information Technology
+Lucid,LCID,Consumer Discretionary
+Lululemon,LULU,Consumer Discretionary
+Marriott International,MAR,Consumer Discretionary
+Marvell,MRVL,Information Technology
+Match Group,MTCH,Communication Services
+MercadoLibre,MELI,Consumer Discretionary
+Meta,FB,Communication Services
+Microchip,MCHP,Information Technology
+Micron,MU,Information Technology
+Microsoft,MSFT,Information Technology
+Moderna,MRNA,Health Care
+Mondelēz International,MDLZ,Consumer Staples
+Monster Beverage,MNST,Consumer Staples
+NetEase,NTES,Communication Services
+Netflix,NFLX,Communication Services
+Nvidia,NVDA,Information Technology
+NXP,NXPI,Information Technology
+O'Reilly Automotive,ORLY,Consumer Discretionary
+Okta,OKTA,Information Technology
+Old Dominion Freight Line,ODFL,Industrials
+Paccar,PCAR,Industrials
+Palo Alto Networks,PANW,Information Technology
+Paychex,PAYX,Information Technology
+PayPal,PYPL,Information Technology
+PepsiCo,PEP,Consumer Staples
+Pinduoduo,PDD,Consumer Discretionary
+Qualcomm,QCOM,Information Technology
+Regeneron,REGN,Health Care
+Ross Stores,ROST,Consumer Discretionary
+Seagen,SGEN,Health Care
+Sirius XM,SIRI,Communication Services
+Skyworks,SWKS,Information Technology
+Splunk,SPLK,Information Technology
+Starbucks,SBUX,Consumer Discretionary
+Synopsys,SNPS,Information Technology
+T-Mobile,TMUS,Communication Services
+Tesla,TSLA,Consumer Discretionary
+Texas Instruments,TXN,Information Technology
+Verisign,VRSN,Information Technology
+Verisk,VRSK,Industrials
+Vertex,VRTX,Health Care
+Walgreens Boots Alliance,WBA,Consumer Staples
+Workday,WDAY,Information Technology
+Xcel Energy,XEL,Utilities
+Zoom,ZM,Information Technology
+Zscaler,ZS,Information Technology
