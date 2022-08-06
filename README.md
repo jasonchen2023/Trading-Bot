@@ -4,7 +4,7 @@ This trading bot uses machine learning to predict stock movements. It determines
 
 ### Usage
 
-- Enter your Alpaca api key and secret key in the credential file. You can create an Alpaca account [here](https://alpaca.markets)
+- Enter your Alpaca API key and secret key in the credential file. You can create an Alpaca account [here](https://alpaca.markets)
 - Download libraries below
 - To run trading bot: `python3 trade.py [path_to_csv_file]`
 
@@ -19,7 +19,7 @@ This trading bot uses machine learning to predict stock movements. It determines
 
 ### ML models
 
-I trained several models, including Random Forest, Logistic Regression, and Naive Bayes, using the dataset for Apple. Random Forest had the highest [F1-score](https://deepai.org/machine-learning-glossary-and-terms/f-score), so I used Random Forest for my trading bot.
+I trained several models including random forest, Logistic Regression, and Naive Bayes using the dataset for Apple. Random forest had the highest [F1-score](https://deepai.org/machine-learning-glossary-and-terms/f-score).
 
 | Model      | F1 Score |
 | ----------- | ----------- |
@@ -35,7 +35,7 @@ I had 36 features for my model. Some of the main ones include open price, close 
 
 ### Trading strategies
 
-I use the **Random Forest** classifier to predict the probability of a stock appreciating today. My trading model determines the probabilities for all the stocks entered in the csv file.
+I use the **random forest** classifier to predict the probability of a stock appreciating today. My trading model determines the probabilities for all the stocks entered in the csv file.
 
 With the probabilities of rising for all companies, there are two available strategies for trading:
 
