@@ -197,29 +197,3 @@ class TradingModel:
         print("Return for buy and hold strategy: " + str(round(bh_percent_return, 2)) + "%")
         
         return trading_threshold_percent_return, best_stock_percent_return, bh_percent_return 
-
-
-                
-# def load_company_names(file):
-#     df = pd.read_csv(file)
-#     companies = []
-#     for index,row in df.iterrows():
-#         companies.append(row['Ticker'])
-#     return companies
-
-# FILE = "stocks/NASDAQ100.csv"
-# company_names = load_company_names(FILE)
-
-# trading_model = TradingModel(company_names, 0.45, 30, "1")
-# trading_model.sell_all_stocks()
-# # company_probs = trading_model.company_up_probs
-# # print('\n')
-# # print("Stock probabilities:", company_probs)
-# # print('\n')
-# # print("Top 5 stocks:", trading_model.get_highest_ranked_stocks(company_probs))
-# # print('\n')
-# # print("Stocks above threshold of 0.45:", trading_model.get_stocks_above_threshold(company_probs))
-# # print('\n')
-# # trading_model.buy_top_ranked_stocks()
-
-# trading_threshold_return, best_stocks_return, b_h_return = trading_model.simulate(450, 30, 0.45)
